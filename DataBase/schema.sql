@@ -1,0 +1,9 @@
+CREATE DATABASE IF NOT EXISTS study_buddy;
+USE study_buddy;
+
+CREATE TABLE flashcards (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    question TEXT NOT NULL,
+    answer TEXT NOT NULL,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
