@@ -1,5 +1,7 @@
 # Study_Buddy
 
+By: Seid Ahmed
+
 ✨ STUDY BUDDY ✨
 Your AI-Powered Learning Companion
 
